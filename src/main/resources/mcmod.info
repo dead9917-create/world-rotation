@@ -1,0 +1,14 @@
+[
+{
+  "modid": "worldrotation",
+  "name": "World Rotation 90",
+  "description": "Turns the world view 90 degrees. X toggles it, Z flips the direction.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "authorList": [],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
